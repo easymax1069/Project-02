@@ -83,9 +83,9 @@ img {
 
 @media only screen and (min-width: 375px) {
 	/* Mobile medium: */
-	.header {
+	/* .header {
 	background: green;
-	}
+	} */
 
 		.container-top {
 		left: 8%;
@@ -102,9 +102,9 @@ img {
 
 @media only screen and (min-width: 425px) {
 	/* Mobile Large: */
-	.header {
+	/* .header {
 	background: yellow;
-	}
+	} */
 
 	.container-top {
 		left: 4%;
@@ -139,9 +139,9 @@ img {
 
 @media only screen and (min-width: 768px) {
 	/* Tablet: */
-	.header {
+	/* .header {
 	background: red;
-	}
+	} */
 
 	.container-top {
 		left: 15%;
@@ -208,7 +208,7 @@ img {
 @media only screen and (min-width: 1024px) {
 	/* laptop */
 	.header {
-	background: gold;
+	/* background: gold; */
 	padding: 8px 0;
 	}
 
